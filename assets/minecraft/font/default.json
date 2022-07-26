@@ -1,0 +1,46 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "minecraft:negative_spaces.ttf",
+			"shift": [0.0, 0.0],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/online_size1.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/online_size2.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC002"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tps_size1.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC003"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tps_size2.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC004"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/full_logo.png",
+			"ascent": 1,
+			"height": 16,
+			"chars": ["\uA001"]
+		}
+	]
+}

@@ -1,1 +1,1 @@
-java -Xmx2G -jar spigot-1.19.jar nogui
+java -Xmx8G -jar spigot-1.19.2.jar nogui

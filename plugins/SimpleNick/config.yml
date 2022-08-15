@@ -1,0 +1,20 @@
+world:
+    inList: "%grass_block%\uF822&green%name%"
+    inChat: "%grass_block%\uF822%name%"
+    
+    handlers:
+        dimension: world
+
+nether:
+    inList: "%netherrack%\uF822&red%name%"
+    inChat: "%netherrack%\uF822%name%"
+    
+    handlers:
+        dimension: world_nether
+   
+end:
+    inList: "%end_stone%\uF822&dark_purple%name%"
+    inChat: "%end_stone%\uF822%name%"
+    
+    handlers:
+        dimension: world_the_end

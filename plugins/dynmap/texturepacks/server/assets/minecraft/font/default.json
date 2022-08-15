@@ -1,0 +1,88 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "minecraft:negative_spaces.ttf",
+			"shift": [0.0, 0.0],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/full_logo.png",
+			"ascent": 0,
+			"height": 16,
+			"chars": ["\uF001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/frame_42.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC042"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/frame_45.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC045"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/frame_48.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uC048"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/bones_3.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\u280B"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/bones_4.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\u281B"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/bones_5.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\u281F"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/bones_6.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\u283F"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/block/grass_block_side.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uEB01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/block/netherrack.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uEB02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/block/end_stone.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uEB03"]
+		}
+	]
+}
